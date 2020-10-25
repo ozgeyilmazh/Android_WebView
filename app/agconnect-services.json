@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"5190090000026033056",
+		"product_id":"736430079244677469",
+		"client_id":"480616132399596608",
+		"client_secret":"9249C088250EAF4F5609ED1301C1A2E249B16F5FFAB5D79C96733F968523D725",
+		"app_id":"103125249",
+		"package_name":"com.ozgey.mylibrary_v1",
+		"api_key":"CgB6e3x9EerdUbAHbRufGsZGhTEsMUrpiifmnGyAi2CItsG3XhwCa6XTPOFE1TcJ0PrGkYcKrd7QNS8+PwlQLBnp"
+	},
+	"configuration_version":"1.0"
+}
